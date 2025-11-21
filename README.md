@@ -3,8 +3,8 @@ This repository contains three Machine Learning classification models trained on
 
 The three supervised learning algorithms I chose were - 
 
-Logistic Regression 
+### Logistic Regression 
 
-Support Vector Machine (SVM)
+### Support Vector Machine (SVM)
 
-Decision Tree
+### Decision Tree
